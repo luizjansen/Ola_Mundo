@@ -1,4 +1,4 @@
-# Ola_Mundo
-Olá Mundo!
-Direto no site
- Primeiro
+Olá, Mundo!
+Primeiro repositório de Git e GitHub criado na aula
+
+Repositório criando durante aula do Curso em Video
